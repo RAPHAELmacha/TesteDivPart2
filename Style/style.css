@@ -1,0 +1,55 @@
+body
+{
+    background-color: blueviolet;
+}
+
+.geral
+{
+    width: 100%;
+    height: 700px;
+    background-color: aliceblue;
+}
+
+.topo
+{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+}
+
+.ladoE
+{
+    float: left;
+    width: 20%;
+    height: 60%;
+    background-color: rgb(152, 11, 55);
+}
+
+.meio
+{
+    float: left;
+    width: 80%;
+    height: 20%;
+    background-color: blanchedalmond;
+}
+
+.rodape
+{
+    width: 100%;
+    height: 20%;
+    background-color: aquamarine;
+    clear: both;
+}
+
+/*estilo da div3*/
+
+.minhadiv
+{
+   position: absolute;
+   top: 10px;
+   left: 10px;
+   width: 40%;
+   height: 50%;
+   background-color: black;
+   border: 3px solid blue;
+}
